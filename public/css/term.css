@@ -1,0 +1,22 @@
+.termhead{
+          
+          
+            text-align: center;
+           
+    
+        }
+.termimg{
+          
+            margin: 0 auto;
+            text-align: center;
+
+    
+        }
+.termtable{
+    width:100%;
+    background-color: white;
+    margin-top: -9px;
+}
+.termheader{
+    padding: 1px;
+}
